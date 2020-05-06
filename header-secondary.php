@@ -6,3 +6,5 @@
     <?php wp_head(); ?><!-- notice the wordpress admin bar on top-->
   </head>
   <body>
+  
+     Secondary header
